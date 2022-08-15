@@ -1,4 +1,5 @@
-BDAF mini programming language
+Dogegie a fuzzy logic prediction for Dogecoin Prices
+
 Created by (GROUP 8):
 	Arconado, Kristine N.
 	Berse, Nikko R.
