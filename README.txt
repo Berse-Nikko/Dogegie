@@ -1,3 +1,12 @@
+BDAF mini programming language
+Created by (GROUP 8):
+	Arconado, Kristine N.
+	Berse, Nikko R.
+	Dalay, Jeremy Tristen A.
+	Faustino, Kyle C.
+
+	of BSCS 3-2 (AY 2020-2021)
+
 Main File: app.py
 
 doge_scraper.py - scheduled every 10mins.
