@@ -13,7 +13,7 @@ doge_scraper.py - scheduled every 10mins.
 
 ### FOLDERS
 
-elements - tkinter_custom_button.py
+elements - *tkinter_custom_button.py*
 
 images - *images for the GUI*
 
@@ -21,9 +21,9 @@ images - *images for the GUI*
 
 Analytics_Module.py
 
-connect.py	`connection to the database`
+connect.py - *connection to the database*
 	  
-dogegie.py	`Dogegie AI`
+dogegie.py - *Dogegie AI*
 	  
 Fuzzy_Logic_Module.py
 	  
