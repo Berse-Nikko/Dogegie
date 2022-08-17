@@ -7,17 +7,17 @@
 
 Install `requirements.txt`
 
-### Main File: app.py
+### MAIN FILE: app.py
 
 doge_scraper.py - scheduled every 10mins.
 
-### Folders
+### FOLDERS
 
 elements - tkinter_custom_button.py
 
 images - *images for the GUI*
 
-### Modules
+### MODULES
 
 Analytics_Module.py
 
