@@ -1,18 +1,17 @@
-Dogegie a fuzzy logic prediction for Dogecoin Prices
+# Introduction #
 
-Created by (GROUP 8):
-	Arconado, Kristine N.
-	Berse, Nikko R.
-	Dalay, Jeremy Tristen A.
-	Faustino, Kyle C.
+`DOGEGOE` is a Fuzzy Logic based application in predicting Dogecoin prices
 
-	of BSCS 3-2 (AY 2020-2021)
+
+# Requirements and Modules#
+
+Install `requirements.txt`
 
 Main File: app.py
 
 doge_scraper.py - scheduled every 10mins.
 
-folders:
+##Folders:
 elements - tkinter_custom_button.py
 
 images - *images for the GUI*
@@ -23,3 +22,15 @@ modules - Analytics_Module.py
 	  Fuzzy_Logic_Module.py
 	  preprocessing.py
 	  Regression_Module.py
+	  
+# Contributors #
+
+Arconado, Kristine N. https://github.com/iamoriginalvisual
+
+Berse, Nikko R. https://github.com/Berse-Nikko
+
+Dalay, Jeremy Tristen A. https://github.com/jeremydalay 
+
+Faustino, Kyle C. 
+
+of BSCS 3-2 (AY 2020-2021)
