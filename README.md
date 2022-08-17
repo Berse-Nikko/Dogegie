@@ -1,6 +1,6 @@
 # Introduction #
 
-`DOGEGOE` is a Fuzzy Logic based application in predicting Dogecoin prices
+`DOGEGIE` is a Fuzzy Logic based application in predicting Dogecoin prices
 
 
 # Requirements and Modules #
