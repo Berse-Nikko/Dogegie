@@ -11,7 +11,7 @@ Main File: app.py
 
 doge_scraper.py - scheduled every 10mins.
 
-##Folders:
+###Folders:
 elements - tkinter_custom_button.py
 
 images - *images for the GUI*
@@ -25,12 +25,12 @@ modules - Analytics_Module.py
 	  
 # Contributors #
 
-Arconado, Kristine N. https://github.com/iamoriginalvisual
+Arconado, Kristine 	https://github.com/iamoriginalvisual
 
-Berse, Nikko R. https://github.com/Berse-Nikko
+Berse, Nikko	 	https://github.com/Berse-Nikko
 
-Dalay, Jeremy Tristen A. https://github.com/jeremydalay 
+Dalay, Jeremy Tristen	https://github.com/jeremydalay 
 
-Faustino, Kyle C. 
+Faustino, Kyle		https://github.com/Ramyeon1
 
 of BSCS 3-2 (AY 2020-2021)
