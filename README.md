@@ -11,7 +11,7 @@ Main File: app.py
 
 doge_scraper.py - scheduled every 10mins.
 
-###Folders
+### Folders
 
 elements - tkinter_custom_button.py
 
