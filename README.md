@@ -17,7 +17,7 @@ elements - tkinter_custom_button.py
 
 images - *images for the GUI*
 
-### modules
+### Modules
 
 Analytics_Module.py
 
