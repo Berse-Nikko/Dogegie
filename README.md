@@ -21,9 +21,9 @@ images - *images for the GUI*
 
 Analytics_Module.py
 
-connect.py		*connection to the database*
+connect.py	`connection to the database`
 	  
-dogegie.py		*Dogegie AI*
+dogegie.py	`Dogegie AI`
 	  
 Fuzzy_Logic_Module.py
 	  
@@ -33,12 +33,12 @@ Regression_Module.py
 	  
 # Contributors #
 
-Arconado, Kristine 	https://github.com/iamoriginalvisual
+[Arconado, Kristine](https://github.com/iamoriginalvisual)
 
-Berse, Nikko	 	https://github.com/Berse-Nikko
+[Berse, Nikko](https://github.com/Berse-Nikko)
 
-Dalay, Jeremy Tristen	https://github.com/jeremydalay 
+[Dalay, Jeremy Tristen](https://github.com/jeremydalay) 
 
-Faustino, Kyle		https://github.com/Ramyeon1
+[Faustino, Kyle](https://github.com/Ramyeon1)
 
 of BSCS 3-2 (AY 2020-2021)
